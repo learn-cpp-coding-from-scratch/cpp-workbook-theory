@@ -1,7 +1,7 @@
 <img src="/cpp-workbook-theory.png" width=25% />
 
 # Description
- С++ WWorkbook (Theory) for the course "Programming Fundamentals and Methodologies." Abridged notes, glossary, fill-in-the-blank assignments, and code snippets.
+ С++ Workbook (Theory) for the course "Programming Fundamentals and Methodologies." Abridged notes, glossary, fill-in-the-blank assignments, and code snippets.
 
 **Programming language:** C++
 
