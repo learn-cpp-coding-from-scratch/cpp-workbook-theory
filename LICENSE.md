@@ -1,4 +1,4 @@
-Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0)
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png"> Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0)
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
 
