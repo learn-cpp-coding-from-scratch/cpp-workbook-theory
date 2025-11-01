@@ -1,3 +1,4 @@
+[](/cpp-workbook-theory.png)
 # Description
  С++ Workbook (Theory): Abridged notes, glossary, fill-in-the-blank assignments, Code Snippets
 
