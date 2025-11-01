@@ -1,4 +1,4 @@
-[](/cpp-workbook-theory.png)
+![](https://github.com/learn-cpp-coding-from-scratch/cpp-workbook-theory/blob/main/cpp-workbook-theory.png)
 # Description
  С++ Workbook (Theory): Abridged notes, glossary, fill-in-the-blank assignments, Code Snippets
 
